@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaopedrobiu6
-- 👀 I’m interested in Physics, Math and computational physics
-- 🌱 I’m currently studying Physics @ Instituto Superior Técnico of Lisbon University
-- 📫 How to reach me ... through my email!
+- 🔭 I’m interested in Physics, Machine Learning and Maths
+- ⚛️ Engineering Physics MSc student @ Instituto Superior Técnico of Lisbon University
+- 📧 joaopedrofbiu@tecnico.ulisboa.pt
 
 currently doing some stuff
 
