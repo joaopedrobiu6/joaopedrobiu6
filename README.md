@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @joaopedrobiu6
-- 🔭 I’m interested in Physics, Machine Learning and Maths
+- 🔭 Physics, Machine Learning and Maths
 - ⚛️ Engineering Physics MSc student @ Instituto Superior Técnico of Lisbon University
 - 📧 joaopedrofbiu@tecnico.ulisboa.pt
 
