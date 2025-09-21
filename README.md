@@ -1,4 +1,4 @@
-- 🔭 Physics, Machine Learning and Maths
+- 🔭 Plasma Physics and Machine Learning
 - ⚛️ Engineering Physics MSc student @ Instituto Superior Técnico of Lisbon University
 - 📧 joaopedrofbiu@tecnico.ulisboa.pt
 
